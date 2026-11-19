@@ -41,7 +41,7 @@ Add `device_identity_plus` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  device_identity_plus: ^0.0.1
+  device_identity_plus: ^1.1.1
 ```
 
 Or run:
