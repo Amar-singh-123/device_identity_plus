@@ -121,4 +121,4 @@ Contributions, feature suggestions, and bug reports are welcome! Please feel fre
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Amar-singh-123/device_identity_plus/blob/master/LICENSE) file for details.
